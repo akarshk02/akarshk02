@@ -3,7 +3,7 @@
 # 💫 About Me:
 🎓 Studying Computer Science and Engineering from Madan Mohan Malaviya University of Technology, Gorakhpur.<br>👯 I’m looking to collaborate on Some Cool Open source projects<br>🤔 I’m looking for help with Web 3.0<br>🌱 I’m currently learning Web Development<br>💬 Ask me about  C/C++, Git, GitHub, Web Development<br>😄 Pronouns: He/His<br>⚡ Fun fact: Romantic<br>
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Get in Touch:
 <p align="left">
   <a href="https://www.linkedin.com/in/akarshkumar32/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
@@ -26,7 +26,7 @@
 <!-- ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lance.kumar.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_krsh_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akarshkumar32) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@lancekumar1)  -->
 
-<h3 align="left">My CP Handles:</h3>
+## 🌐 My CP Handles:
 <p align="left">
   <a href="https://www.codechef.com/users/akarsh_04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tushar_104" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/akarshkumar32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tusharkesarwani1" height="30" width="40" /></a>
